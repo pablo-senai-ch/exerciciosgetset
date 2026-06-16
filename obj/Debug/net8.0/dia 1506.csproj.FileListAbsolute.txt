@@ -12,3 +12,4 @@ C:\Users\486568624\Documents\dia 1506\obj\Debug\net8.0\refint\dia 1506.dll
 C:\Users\486568624\Documents\dia 1506\obj\Debug\net8.0\dia 1506.pdb
 C:\Users\486568624\Documents\dia 1506\obj\Debug\net8.0\dia 1506.genruntimeconfig.cache
 C:\Users\486568624\Documents\dia 1506\obj\Debug\net8.0\ref\dia 1506.dll
+C:\Users\486568624\Documents\dia 1506\obj\Debug\net8.0\dia 1506.sourcelink.json

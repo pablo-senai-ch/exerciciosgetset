@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace dia_1506
 {
-    public class Carro
+    public class Temperatura
     {
         
     }
